@@ -22,8 +22,8 @@ Berikut adalah contoh bagaimana skrip ini berjalan di terminal:
 
 ## ✨Fitur
 * Dua Metode Serangan:
-    1. Dictionary Attack: Mencoba kata sandi dari sebuah daftar kata (wordlist). Cepat dan efektif untuk kata sandi umum.
-    2. Brute-Force Attack: Mencoba semua kemungkinan kombinasi karakter. Komprehensif namun sangat lambat.
+1. Dictionary Attack: Mencoba kata sandi dari sebuah daftar kata (wordlist). Cepat dan efektif untuk kata sandi umum.
+ 2. Brute-Force Attack: Mencoba semua kemungkinan kombinasi karakter. Komprehensif namun sangat lambat.
 * Antarmuka Interaktif: Dilengkapi antarmuka baris perintah (CLI) yang mudah digunakan.
 * Progress Bar: Menampilkan bilah kemajuan (progress bar) menggunakan tqdm agar proses yang panjang dapat dipantau.
 * Edukasi: Kode ditulis dengan sederhana dan diberi komentar agar mudah dipahami, dimodifikasi, dan dipelajari.
