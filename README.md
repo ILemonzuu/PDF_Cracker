@@ -36,8 +36,8 @@ Berikut adalah contoh bagaimana skrip ini berjalan di terminal:
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/HanzYiz/bcrypt_cracker
-   cd bcrypt_cracker
+   git clone https://github.com/ILemonzuu/PDF_Cracker.git
+   cd pdf_cracker
 
 2. Masuk ke direktori proyek:
    ```bash
